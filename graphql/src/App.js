@@ -1,7 +1,6 @@
 import './App.css';
 import { graphql } from "@octokit/graphql";
 import { useState, useEffect } from "react";
-
 const Token = process.env.REACT_APP_Token
 
 // console.log(Token)
